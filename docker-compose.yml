@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+
+  server:
+    container_name: SERVER
+    image: xackigiff/mcpe-php:lite
+    volumes:
+      - ./server:/home/mcpe/server
+    command: /bin/bash /home/mcpe/server/start.sh -l
+    ports:
+      - 19132:19132/tcp
+      - 19132:19132/udp
+      - 19133:19133/tcp
+      - 19133:19133/udp
