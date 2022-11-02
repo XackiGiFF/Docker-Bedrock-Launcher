@@ -23,7 +23,7 @@ RUN chmod +x ./compile.sh
 RUN ./compile.sh
 
 #Clear Docker Image, delete build tools
-getRUN apt- purge ca-certificates apt-transport-https git make gcc wget autoconf automake m4 g++ cmake pkg-config re2c libtool-bin -y
+RUN apt-get purge ca-certificates apt-transport-https git make gcc wget autoconf automake m4 g++ cmake pkg-config re2c libtool-bin -y
 RUN apt-get autoremove --purge -y && apt-get autoclean -y && apt-get clean -y
 RUN rm -rf /var/lib/{apt,dpkg,git}
 
