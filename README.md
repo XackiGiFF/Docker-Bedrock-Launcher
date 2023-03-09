@@ -1,5 +1,5 @@
 To build and start services
 
-``bash
+```bash
 docker-compose up --build
-``
+```
