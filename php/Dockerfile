@@ -3,6 +3,9 @@ FROM debian:latest
 RUN apt-get update && apt-get upgrade -y \
     && apt-get install apt-utils -y
 
+RUN apt-get install libc6-dev -y
+RUN apt-get install screen nano mc -y
+
 ENV USER=mcpe
 ENV HOME=/home/mcpe
 
