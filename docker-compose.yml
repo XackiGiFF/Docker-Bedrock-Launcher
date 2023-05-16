@@ -4,7 +4,11 @@ services:
 
   server:
     container_name: SERVER
-    image: xackigiff/mcpe-php:lite
+    # Delete string "image: xackigiff/mcpe-php:latest" and add this strings for building and compiling your own versions (for future, my friend)
+    
+    # build:
+    #  ./php
+    image: xackigiff/mcpe-php:latest
     volumes:
       - ./server:/home/mcpe/server
     command: /bin/bash /home/mcpe/server/start.sh -l
