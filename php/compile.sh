@@ -15,7 +15,7 @@ SQLITE3_YEAR="2022"
 SQLITE3_VERSION="3370200" #3.37.2
 LIBDEFLATE_VERSION="6c095314d0c49061f41e1e40be2625dfc2253afa" #1.9
 
-EXT_PTHREADS_VERSION="4.0.0"
+EXT_PTHREADS_VERSION="5.3.1"
 EXT_YAML_VERSION="2.2.2"
 EXT_LEVELDB_VERSION="317fdcd8415e1566fc2835ce2bdb8e19b890f9f3"
 EXT_CHUNKUTILS2_VERSION="0.3.1"
@@ -121,7 +121,7 @@ FLAGS_LTO=""
 
 LD_PRELOAD=""
 
-COMPILE_GD="no"
+COMPILE_GD="yes"
 
 while getopts "::t:j:srdxff:gnva:" OPTION; do
 
@@ -816,7 +816,7 @@ function get_pecl_extension {
 
 echo "[PHP] Downloading additional extensions..."
 
-get_github_extension "pthreads" "$EXT_PTHREADS_VERSION" "pmmp" "pthreads" #"v" needed for release tags because github removes the "v"
+get_github_extension "ext-pmmpthread" "$EXT_PTHREADS_VERSION" "pmmp" "ext-pmmpthread" #"v" needed for release tags because github removes the "v"
 #get_pecl_extension "pthreads" "$EXT_PTHREADS_VERSION"
 
 get_github_extension "yaml" "$EXT_YAML_VERSION" "php" "pecl-file_formats-yaml"
