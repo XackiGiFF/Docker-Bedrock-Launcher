@@ -21,3 +21,5 @@ Start with:
 ```powershell
 ./start-docker.cmd
 ```
+
+It will joined to console gameserver
