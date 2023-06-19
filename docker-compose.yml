@@ -3,15 +3,13 @@ version: '3'
 services:
 
   server:
-    container_name: SERVER
-    # Delete string "image: xackigiff/mcpe-php:latest" and add this strings for building and compiling your own versions (for future, my friend)
-    
-    # build:
-    #  ./php
+    container_name: mcpe-server
+    # Delete string "build: ./php" if you want use complate image from dockerhub
+    build: ./php
     image: xackigiff/mcpe-php:latest
     volumes:
       - ./server:/home/mcpe/server
-    command: /bin/bash /home/mcpe/server/start.sh -l
+    command: /bin/bash -c 'cd /home/mcpe/server/ && ./start.sh -l'
     ports:
       - 19132:19132/tcp
       - 19132:19132/udp

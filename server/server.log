@@ -1,0 +1,102 @@
+2023-06-19 [01:39:28.514] [Server thread/INFO]: Loading server configuration
+2023-06-19 [01:39:28.624] [Server thread/INFO]: Выбран Pyccĸий (rus) как основной язык
+2023-06-19 [01:39:28.624] [Server thread/WARNING]: ----------------------------------------
+2023-06-19 [01:39:28.624] [Server thread/WARNING]: Вы запускаете РАЗРАБАТЫВАЕМУЮ сборку PocketMine-MP.
+2023-06-19 [01:39:28.624] [Server thread/WARNING]: API для этой версии может быть не завершен. Плагины, которые запускаются в этой сборке, могут не работать на других сборках с той же версией API.
+2023-06-19 [01:39:28.624] [Server thread/WARNING]: Эта сборка может содержать ошибки, сбои, а также повредить ваши данные или сломать ваши плагины.
+2023-06-19 [01:39:28.624] [Server thread/WARNING]: ----------------------------------------
+2023-06-19 [01:39:28.661] [Server thread/INFO]: Запускается сервер для Minecraft: Bedrock Edition версии v1.19.0
+2023-06-19 [01:39:28.761] [Server thread/INFO]: Онлайн режим включен. Сервер проверяет, чтобы игроки прошли авторизацию в Xbox Live.
+2023-06-19 [01:39:29.101] [Server thread/INFO]: Этот сервер работает под управлением PocketMine-MP, версии 4.5.2+dev
+2023-06-19 [01:39:29.101] [Server thread/INFO]: PocketMine-MP распространяется под LGPL лицензией
+2023-06-19 [01:39:32.120] [Server thread/INFO]: Loading resource packs...
+2023-06-19 [01:39:32.804] [Server thread/INFO]: Подготовка мира "world"
+2023-06-19 [01:39:32.925] [Server thread/NOTICE]: Генерируется территория точки появления для мира "world"
+2023-06-19 [01:39:34.978] [Server thread/INFO]: Сетевой интерфейс Minecraft работает на 0.0.0.0:19132
+2023-06-19 [01:39:34.978] [Server thread/INFO]: GS4 Query слушатель работает на 0.0.0.0:19132
+2023-06-19 [01:39:36.230] [Server thread/INFO]: Сетевой интерфейс Minecraft работает на [::]:19133
+2023-06-19 [01:39:36.231] [Server thread/INFO]: GS4 Query слушатель работает на [::]:19133
+2023-06-19 [01:39:36.270] [Server thread/INFO]: Игровой режим по умолчанию: Режим выживания
+2023-06-19 [01:39:36.270] [Server thread/INFO]: Если вы считаете этот проект полезным, рассмотрите возможность пожертвования на поддержку развития: https://patreon.com/pocketminemp
+2023-06-19 [01:39:36.271] [Server thread/INFO]: Загружено (7.79 сек.)! Для помощи, введите "help" или "?"
+2023-06-19 [01:39:36.424] [Server thread/INFO]: [Update Checker] You're running a Beta build, but you're receiving update notifications for Stable builds.
+2023-06-19 [01:39:36.425] [Server thread/INFO]: [Update Checker] To get notified about new Beta or Development builds, change 'preferred-channel' in your pocketmine.yml to 'beta' or 'development'.
+2023-06-19 [01:39:40.008] [Server thread/INFO]: [World: world] Генерация территории спавна: 1 / 224 (0%)
+2023-06-19 [01:39:41.368] [Server thread/INFO]: [World: world] Генерация территории спавна: 23 / 224 (10%)
+2023-06-19 [01:39:41.646] [Server thread/INFO]: [World: world] Генерация территории спавна: 45 / 224 (20%)
+2023-06-19 [01:39:42.370] [Server thread/INFO]: [World: world] Генерация территории спавна: 68 / 224 (30%)
+2023-06-19 [01:39:42.645] [Server thread/INFO]: [World: world] Генерация территории спавна: 90 / 224 (40%)
+2023-06-19 [01:39:42.884] [Server thread/INFO]: [World: world] Генерация территории спавна: 112 / 224 (50%)
+2023-06-19 [01:39:43.092] [Server thread/INFO]: [World: world] Генерация территории спавна: 135 / 224 (60%)
+2023-06-19 [01:39:43.291] [Server thread/INFO]: [World: world] Генерация территории спавна: 157 / 224 (70%)
+2023-06-19 [01:39:43.461] [Server thread/INFO]: [World: world] Генерация территории спавна: 180 / 224 (80%)
+2023-06-19 [01:39:43.684] [Server thread/INFO]: [World: world] Генерация территории спавна: 202 / 224 (90%)
+2023-06-19 [01:39:43.960] [Server thread/INFO]: [World: world] Генерация территории спавна: 224 / 224 (100%)
+2023-06-19 [01:40:00.610] [Server thread/INFO]: Received signal interrupt, stopping the server
+2023-06-19 [01:40:00.624] [Server thread/INFO]: Выгрузка мира "world"
+2023-06-19 [01:40:01.238] [Server thread/INFO]: Stopping other threads
+2023-06-19 [01:40:06.856] [Server thread/INFO]: Loading server configuration
+2023-06-19 [01:40:06.993] [Server thread/INFO]: Выбран Pyccĸий (rus) как основной язык
+2023-06-19 [01:40:06.994] [Server thread/WARNING]: ----------------------------------------
+2023-06-19 [01:40:06.994] [Server thread/WARNING]: Вы запускаете РАЗРАБАТЫВАЕМУЮ сборку PocketMine-MP.
+2023-06-19 [01:40:06.994] [Server thread/WARNING]: API для этой версии может быть не завершен. Плагины, которые запускаются в этой сборке, могут не работать на других сборках с той же версией API.
+2023-06-19 [01:40:06.994] [Server thread/WARNING]: Эта сборка может содержать ошибки, сбои, а также повредить ваши данные или сломать ваши плагины.
+2023-06-19 [01:40:06.994] [Server thread/WARNING]: ----------------------------------------
+2023-06-19 [01:40:07.029] [Server thread/INFO]: Запускается сервер для Minecraft: Bedrock Edition версии v1.19.0
+2023-06-19 [01:40:07.128] [Server thread/INFO]: Онлайн режим включен. Сервер проверяет, чтобы игроки прошли авторизацию в Xbox Live.
+2023-06-19 [01:40:07.496] [Server thread/INFO]: Этот сервер работает под управлением PocketMine-MP, версии 4.5.2+dev
+2023-06-19 [01:40:07.496] [Server thread/INFO]: PocketMine-MP распространяется под LGPL лицензией
+2023-06-19 [01:40:10.346] [Server thread/INFO]: Loading resource packs...
+2023-06-19 [01:40:10.595] [Server thread/CRITICAL]: Невозможно загрузить плагин 'DevTools': Несовместимая версия API (для плагина требуется одна из следующих: 5.0.0)
+2023-06-19 [01:40:10.595] [Server thread/EMERGENCY]: Failed to load some plugins, stopping server to protect server integrity
+2023-06-19 [01:40:10.595] [Server thread/EMERGENCY]: Forcing server shutdown
+2023-06-19 [01:40:11.437] [Server thread/INFO]: [Update Checker] You're running a Beta build, but you're receiving update notifications for Stable builds.
+2023-06-19 [01:40:11.437] [Server thread/INFO]: [Update Checker] To get notified about new Beta or Development builds, change 'preferred-channel' in your pocketmine.yml to 'beta' or 'development'.
+2023-06-19 [01:40:11.440] [Server thread/INFO]: Stopping other threads
+2023-06-19 [01:40:17.061] [Server thread/INFO]: Loading server configuration
+2023-06-19 [01:40:17.201] [Server thread/INFO]: Выбран Pyccĸий (rus) как основной язык
+2023-06-19 [01:40:17.202] [Server thread/WARNING]: ----------------------------------------
+2023-06-19 [01:40:17.202] [Server thread/WARNING]: Вы запускаете РАЗРАБАТЫВАЕМУЮ сборку PocketMine-MP.
+2023-06-19 [01:40:17.202] [Server thread/WARNING]: API для этой версии может быть не завершен. Плагины, которые запускаются в этой сборке, могут не работать на других сборках с той же версией API.
+2023-06-19 [01:40:17.202] [Server thread/WARNING]: Эта сборка может содержать ошибки, сбои, а также повредить ваши данные или сломать ваши плагины.
+2023-06-19 [01:40:17.202] [Server thread/WARNING]: ----------------------------------------
+2023-06-19 [01:40:17.238] [Server thread/INFO]: Запускается сервер для Minecraft: Bedrock Edition версии v1.19.0
+2023-06-19 [01:40:17.325] [Server thread/INFO]: Онлайн режим включен. Сервер проверяет, чтобы игроки прошли авторизацию в Xbox Live.
+2023-06-19 [01:40:17.670] [Server thread/INFO]: Этот сервер работает под управлением PocketMine-MP, версии 4.5.2+dev
+2023-06-19 [01:40:17.670] [Server thread/INFO]: PocketMine-MP распространяется под LGPL лицензией
+2023-06-19 [01:40:20.606] [Server thread/INFO]: Loading resource packs...
+2023-06-19 [01:40:20.856] [Server thread/CRITICAL]: Невозможно загрузить плагин 'DevTools': Несовместимая версия API (для плагина требуется одна из следующих: 5.0.0)
+2023-06-19 [01:40:20.856] [Server thread/EMERGENCY]: Failed to load some plugins, stopping server to protect server integrity
+2023-06-19 [01:40:20.856] [Server thread/EMERGENCY]: Forcing server shutdown
+2023-06-19 [01:40:21.695] [Server thread/INFO]: [Update Checker] You're running a Beta build, but you're receiving update notifications for Stable builds.
+2023-06-19 [01:40:21.696] [Server thread/INFO]: [Update Checker] To get notified about new Beta or Development builds, change 'preferred-channel' in your pocketmine.yml to 'beta' or 'development'.
+2023-06-19 [01:40:21.698] [Server thread/INFO]: Stopping other threads
+2023-06-19 [01:40:27.370] [Server thread/INFO]: Loading server configuration
+2023-06-19 [01:40:27.499] [Server thread/INFO]: Выбран Pyccĸий (rus) как основной язык
+2023-06-19 [01:40:27.499] [Server thread/WARNING]: ----------------------------------------
+2023-06-19 [01:40:27.499] [Server thread/WARNING]: Вы запускаете РАЗРАБАТЫВАЕМУЮ сборку PocketMine-MP.
+2023-06-19 [01:40:27.500] [Server thread/WARNING]: API для этой версии может быть не завершен. Плагины, которые запускаются в этой сборке, могут не работать на других сборках с той же версией API.
+2023-06-19 [01:40:27.500] [Server thread/WARNING]: Эта сборка может содержать ошибки, сбои, а также повредить ваши данные или сломать ваши плагины.
+2023-06-19 [01:40:27.500] [Server thread/WARNING]: ----------------------------------------
+2023-06-19 [01:40:27.532] [Server thread/INFO]: Запускается сервер для Minecraft: Bedrock Edition версии v1.19.0
+2023-06-19 [01:40:27.623] [Server thread/INFO]: Онлайн режим включен. Сервер проверяет, чтобы игроки прошли авторизацию в Xbox Live.
+2023-06-19 [01:40:28.003] [Server thread/INFO]: Этот сервер работает под управлением PocketMine-MP, версии 4.5.2+dev
+2023-06-19 [01:40:28.003] [Server thread/INFO]: PocketMine-MP распространяется под LGPL лицензией
+2023-06-19 [01:40:31.001] [Server thread/INFO]: Loading resource packs...
+2023-06-19 [01:40:31.270] [Server thread/CRITICAL]: Невозможно загрузить плагин 'DevTools': Несовместимая версия API (для плагина требуется одна из следующих: 5.0.0)
+2023-06-19 [01:40:31.270] [Server thread/EMERGENCY]: Failed to load some plugins, stopping server to protect server integrity
+2023-06-19 [01:40:31.270] [Server thread/EMERGENCY]: Forcing server shutdown
+2023-06-19 [01:40:32.084] [Server thread/INFO]: [Update Checker] You're running a Beta build, but you're receiving update notifications for Stable builds.
+2023-06-19 [01:40:32.084] [Server thread/INFO]: [Update Checker] To get notified about new Beta or Development builds, change 'preferred-channel' in your pocketmine.yml to 'beta' or 'development'.
+2023-06-19 [01:40:32.273] [Server thread/INFO]: Stopping other threads
+2023-06-19 [01:40:37.938] [Server thread/INFO]: Loading server configuration
+2023-06-19 [01:40:38.065] [Server thread/INFO]: Выбран Pyccĸий (rus) как основной язык
+2023-06-19 [01:40:38.065] [Server thread/WARNING]: ----------------------------------------
+2023-06-19 [01:40:38.065] [Server thread/WARNING]: Вы запускаете РАЗРАБАТЫВАЕМУЮ сборку PocketMine-MP.
+2023-06-19 [01:40:38.066] [Server thread/WARNING]: API для этой версии может быть не завершен. Плагины, которые запускаются в этой сборке, могут не работать на других сборках с той же версией API.
+2023-06-19 [01:40:38.066] [Server thread/WARNING]: Эта сборка может содержать ошибки, сбои, а также повредить ваши данные или сломать ваши плагины.
+2023-06-19 [01:40:38.066] [Server thread/WARNING]: ----------------------------------------
+2023-06-19 [01:40:38.111] [Server thread/INFO]: Запускается сервер для Minecraft: Bedrock Edition версии v1.19.0
+2023-06-19 [01:40:38.193] [Server thread/INFO]: Онлайн режим включен. Сервер проверяет, чтобы игроки прошли авторизацию в Xbox Live.
+2023-06-19 [01:40:38.549] [Server thread/INFO]: Этот сервер работает под управлением PocketMine-MP, версии 4.5.2+dev
+2023-06-19 [01:40:38.549] [Server thread/INFO]: PocketMine-MP распространяется под LGPL лицензией
