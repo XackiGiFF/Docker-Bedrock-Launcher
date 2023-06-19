@@ -13,6 +13,11 @@ docker-compose up --build
 Will install PMMP API 5.1.2 and PHP 8.2.6 with gb, jit.
 
 Start with:
-
-./start-docker.sh - On Linux
-./start-docker.cmd - On Windows
+ - On Linux
+```bash
+./start-docker.sh
+```
+- On Windows
+```powershell
+./start-docker.cmd
+```
