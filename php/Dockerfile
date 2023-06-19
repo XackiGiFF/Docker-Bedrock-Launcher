@@ -27,7 +27,7 @@ RUN cp ./PHP-Binaries/compile.sh ./compile.sh
 RUN rm -Rf ./PHP-Binaries
 
 RUN chmod +x ./compile.sh
-RUN ./compile.sh -P5.1.2 -j 12 -g -J
+RUN ./compile.sh -P5 -j 12 -g -J
 
 #Clear Docker Image, delete build tools
 RUN apt-get purge ca-certificates apt-transport-https git make gcc wget autoconf automake m4 g++ cmake pkg-config re2c libtool-bin -y
